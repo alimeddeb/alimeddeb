@@ -18,7 +18,7 @@
 
 <br/>
 
-[![alimeddeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alimeddebshow_icons=true)](https://github.com/alimeddeb)
+[![alimeddeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alimeddeb&show_icons=true)](https://github.com/alimeddeb)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
