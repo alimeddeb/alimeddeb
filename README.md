@@ -2,11 +2,10 @@
 
 <h3> 💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🤔 &nbsp; Exploring new technologies and learning.
+- 🎓 &nbsp; Studying Computer Science and Mathematics at the Higher National Engineering School of Tunis (ENSIT).
+- 💼 &nbsp; Working as a Business Intelligence intern at the national center of informatics.
+- ✍️ &nbsp; Pursuing Software Engineering with a personal focus on AI/ML and Data Science.
 
 <h3>🛠 Tech Stack</h3>
 
