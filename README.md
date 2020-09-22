@@ -3,11 +3,11 @@
 <h3> 💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and learning.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at the Higher National Engineering School of Tunis (ENSIT).
+- 🎓 &nbsp; Studying Computer Science at the Higher National Engineering School of Tunis (ENSIT).
 - 💼 &nbsp; Working as a Business Intelligence intern at the national center of informatics.
 - ✍️ &nbsp; Pursuing Software Engineering with a personal focus on AI/ML and Data Science.
 
-<h3>🛠 Tech Stack</h3>
+<h3> 🛠 Tech Stack </h3>
 
 - 💻 &nbsp; Python | C/C++ | Java | R 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
