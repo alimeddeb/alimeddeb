@@ -12,7 +12,7 @@
 - 💻 &nbsp; Python | C/C++ | Java | R 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | PHP
 - 🛢 &nbsp; MySQL | OracleDB | MongoDB | Spark
-- 📈 &nbsp; Tableau | PowerBI | Seaborn |
+- 📈 &nbsp; Tableau | PowerBI | Seaborn 
 - 🤖 &nbsp; Scikit-learn | Keras 
 - 🔧 &nbsp; Git 
 
