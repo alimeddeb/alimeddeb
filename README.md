@@ -1,7 +1,7 @@
 <h2>
   Hey there! I'm Ali Meddeb, a computer science student in his 4th year of Engineering studies (5 year program)
 </h2>
-<p>Been introduced (👶 5 years old) to the amazing world of computers thanks to our old MS-DOS computer that on which I played too much pac-man and Prince of Persia
+<p>Been introduced (👶 5 years old) to the amazing world of computers thanks to our old MS-DOS family computer on which I played too much pac-man and Prince of Persia
 <br> My love for gaming sparked my interest in programming then I discovered the world of algorithms and data structures and the rest was history.
 </p>
 
