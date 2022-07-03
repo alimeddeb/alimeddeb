@@ -1,9 +1,13 @@
 <h2>
-  Hey there! I'm Ali Meddeb, a computer science student in his 4th year of Engineering studies (5 year program)
+  Hey there! I'm Ali Meddeb, a computer science student in his 5th (final) year of Engineering studies (5 year program)
 </h2>
+<h4>I am currently conducting my Engineering thesis at the Technische Universität Dresden in the field of machine learning at the ScaDS.AI center
+<br>I am open to job offers in both Germany and Tunisia
+</h4>
 <p>Been introduced (👶 5 years old) to the amazing world of computers thanks to our old MS-DOS family computer on which I played too much pac-man and Prince of Persia
 <br> My love for gaming sparked my interest in programming then I discovered the world of algorithms and data structures and the rest was history.
 </p>
+
 
 
 <h3> 💻 About Me </h3>
